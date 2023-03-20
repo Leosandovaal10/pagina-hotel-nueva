@@ -1,3 +1,26 @@
+
+.info{
+    width: 95%;
+    max-width: 1000px;
+    justify-content: center;
+    margin-left: 245px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: #a76767;
+    display: grid;
+    border: 3px solid black;
+}
+
+.info p{
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+   
+}
+
 .menu{
     font-family: Arial, Helvetica, sans-serif;
     background-color: #e8e8e8;
